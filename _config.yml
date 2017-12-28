@@ -1,0 +1,31 @@
+# Dependencies
+gems:
+  - jekyll-sitemap
+highlighter:         rouge
+markdown:            kramdown
+
+# Setup
+baseurl:             ''
+description:         "Sinem Akinci"
+permalink:           pretty
+
+sass:
+  style:             compressed
+tagline:             Sinem Akinci's website
+title:               sinemakinci.com
+url:                 http://clarkbk.com
+
+# About
+author:
+  email:             sakinci@umich.edu
+  name:              Sinem Akinci
+  social_urls:
+    facebook:        https://www.facebook.com/si.nem793
+    github:          https://github.com/sinemakinci
+    linkedin:        https://www.linkedin.com/in/sinem-akinci-70910bb7
+    venmo:            https://venmo.com/sinem-akinci
+    google_plus:     https://plus.google.com/+sakinci
+
+
+# i delted this line  (under permalink)
+# relative_permalinks: true

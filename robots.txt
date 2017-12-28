@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /404/
+
+Sitemap: http://sinemakinci.com/sitemap.xml
